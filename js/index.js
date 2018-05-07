@@ -7,7 +7,7 @@ var settings = {
     twitchUsername: "Hyperkind",
     
     // Twitter Name
-    twitterUsername: "Hyperkind808",
+    twitterUsername: "Hyperkind",
     
     // Facebook Name
     facebookUsername: "Hyperkind",
@@ -75,23 +75,23 @@ var settings = {
     enableSnapchat: 1,
     
     // Enable Steam
-    enableSteam: 0,
+    enableSteam: 1,
     
     // Enable Xbox
-    enableXbox: 0,
+    enableXbox: 1,
     
     // Enable Playstation Network
-    enablePsn: 0,
+    enablePsn: 1,
     
     //
     // Times to update
     //
     
     // Time each network  animation takes in seconds
-    aTime: 4,
+    aTime: 5,
     
     // The delay for the animation cycle to restart in seconds
-    pauseTime: 300
+    pauseTime: 1800
   }
 };
 
